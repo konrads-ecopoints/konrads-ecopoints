@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Konrads EcoPoints – Compra de Ar-Condicionado Usado | Fortaleza</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#f5f5f5;color:#333}
+    header{background:#00796b;color:#fff;padding:20px 10px;text-align:center}
+    .cta{background:#004d40;color:#fff;padding:15px;text-align:center;font-size:18px}
+    .cta a{color:#ffeb3b;font-weight:bold;text-decoration:none}
+    section{padding:20px;max-width:600px;margin:auto;background:#fff;margin-bottom:10px;border-radius:6px}
+    h2{color:#00796b}
+    ul{list-style:none;padding:0}
+    li{background:#e0f2f1;margin:5px 0;padding:10px;border-radius:4px}
+    footer{text-align:center;padding:15px;font-size:12px;color:#666}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>KONRADS ECOPOINTS</h1>
+    <p>Compramos seu ar-condicionado quebrado ou usado em Fortaleza</p>
+  </header>
+
+  <div class="cta">
+    <a href="https://wa.me/558594071060?text=Olá,%20tenho%20ar%20condicionado%20para%20vender">Chame no WhatsApp e venda hoje mesmo!</a>
+  </div>
+
+  <section>
+    <h2>Preços pagos na hora (PIX ou dinheiro)</h2>
+    <ul>
+      <li>7.000 BTUs – R$ 50</li>
+      <li>9.000 BTUs – R$ 80</li>
+      <li>12.000 BTUs – R$ 120</li>
+      <li>18.000 BTUs – R$ 150</li>
+      <li>24.000 BTUs – R$ 200</li>
+    </ul>
+    <p>Quantidades maiores: consulte valores especiais.</p>
+  </section>
+
+  <section>
+    <h2>Por que vender para a Konrads EcoPoints?</h2>
+    <ul>
+      <li>✅ Retirada rápida em Fortaleza e região metropolitana</li>
+      <li>✅ Pagamento no PIX ou em espécie na hora da coleta</li>
+      <li>✅ CNPJ ativo: 62.631.434/0001-47</li>
+      <li>✅ Endereço físico: Av. Gen. Osório de Paiva, 5.840 – Fortaleza/CE</li>
+      <li>✅ Processo correto – seu aparelho vira matéria-prima reciclada</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Conscientize-se: aparelho parado é lixo eletrônico</h2>
+    <p>Um ar-condicionado abandonado vaza gás refrigerante com alto potencial de aquecimento global, oxida metais e contamina o solo. Reciclar evita a emissão de mais de 1 tonelada de CO₂ e devolve cobre, alumínio e aço para a indústria.</p>
+  </section>
+
+  <footer>
+    Konrads EcoPoints | Av. Gen. Osório de Paiva, 5.840 – Fortaleza/CE | CNPJ 62.631.434/0001-47 | Contato: (85) 9407-1060
+  </footer>
+</body>
+</html>
